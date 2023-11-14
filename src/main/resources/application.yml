@@ -5,3 +5,6 @@ spring:
   data:
     mongodb:
       uri: mongodb+srv://ghdtjdgjs9797:ghdtjdgjs9797PW@vulserver.z06csu9.mongodb.net/SecurityTest?retryWrites=true&w=majority
+crypto:
+  EncIv: handongstuxxpard
+  EncSecretKey: 20231001100132022023100110013202
