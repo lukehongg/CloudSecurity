@@ -30,10 +30,7 @@ public class UserAgentInterceptor implements HandlerInterceptor {
 //        return userAgent.matches(allowedPattern);
         return true;
     }
-//    private boolean isValidUserAgent(String userAgent) {
-//        String allowedPattern = ".*Macintosh\\s+(Intel|PPC|Mac OS X [0-9_]+(\\s+\\w+)?)\\s*|.*Windows NT [0-9]+\\.[0-9]+|.*Android.*|.*iPhone.*";
-//        return userAgent.matches(allowedPattern);
-//    }
+
 
 
 }
